@@ -2,7 +2,7 @@
 
 _( Ignite | NodeJS | Capítulo I | Desafio 03 )_
 
-Desafio 03 do capítulo I da trilha NodeJS do Ignite, da rocketseat.
+Desafio 03 do capítulo I da trilha NodeJS do bootcamp Ignite, da Rocketseat.
 
 ## O desafio: Corrigindo o código
 
